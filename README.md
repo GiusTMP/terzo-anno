@@ -1,4 +1,4 @@
-# Orario Terzo anno
+<h1>Orario Terzo anno</h1>
 
 <table style="align:center; width:800px; ">
   <tr>
@@ -107,44 +107,44 @@
   <tr>
   </table>
 
-  ## **Informazioni Materie**
+ <h1>Informazioni Materie</h1>
 
-  **Int. Uomo Macchina**
+ <h4>Int. Uomo Macchina</h4>
     <ul>
         <li>First item</li>
         <li>Second item</li>
         <li>Third item</li>
         <li>Fourth item</li>
     </ul>
-  **Ing. del Software**
+ <h4>Ing. del Software**</h4>
     <ul>
         <li>First item</li>
         <li>Second item</li>
         <li>Third item</li>
         <li>Fourth item</li>
     </ul>
-  **Prog. Web**
+  <h4>Prog. Web</h4>
     <ul>
         <li>First item</li>
         <li>Second item</li>
         <li>Third item</li>
         <li>Fourth item</li>
     </ul>
-  **Automi**
+  <h4>Automi</h4>
     <ul>
         <li>First item</li>
         <li>Second item</li>
         <li>Third item</li>
         <li>Fourth item</li>
     </ul>
-  **Org. e Gest.Az.**
+  <h4>Org. e Gest.Az.</h4>
     <ul>
         <li>First item</li>
         <li>Second item</li>
         <li>Third item</li>
         <li>Fourth item</li>
     </ul>
-  **Comp. Graphics**
+  <h4>Comp. Graphics</h4>
     <ul>
         <li>First item</li>
         <li>Second item</li>
